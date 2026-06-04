@@ -10,9 +10,9 @@ I’m a software developer passionate about building practical, scalable and use
 
 Currently working as a **Junior Software Developer**, I spend most of my time with:
 
-- 💻 Backend: C# / .NET / ASP.NET
-- 🌐 Frontend: Angular / TypeScript
-- 🗄️ Databases: Oracle SQL
+- 💻 Backend: C# / .NET / Python
+- 🌐 Frontend: Angular / TypeScript / JavaScript
+- 🗄️ Databases: Oracle SQL / MongoDB
 - ☁️ DevOps: Azure DevOps
 - 🧪 Testing & clean code practices
 
